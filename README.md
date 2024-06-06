@@ -1,18 +1,16 @@
-## Getting Started
+## Desafio: Diagrmação de Classes IPhone
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Desafio proposto pela DIO para a elaboração de uma diagramação UML
 
-## Folder Structure
+## Etapas
 
-The workspace contains two folders by default, where:
+Como surgerido, foi feita a diagramação UML do projeto de um IPhone para as funcionalidades de Reprodutor Musical, Aparelho Telefonico e Navegador de Internet.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+Em seguida foram implementadas as classes e interfaces no formato de arquivo.java.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+# Aluno: Marcos Henrique
 
-## Dependency Management
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-sena-34716214a/)    [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:marcoshsena.jr@gmail.com)    
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+[![Pefil da DIO](https://img.shields.io/badge/DIO-008?style=for-the-badge&logo=&logoColor=violet)](https://www.dio.me/users/marcoshsena_jr)    [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marcoshsena)
